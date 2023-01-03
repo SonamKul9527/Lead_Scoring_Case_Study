@@ -16,7 +16,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 * Leads Data Dictionary.xlsx - Data dictionary file containes information for each feature provided in Dataset
 * Leads.csv - Data File
 * Assignment Subjective Questions.pdf - Subjective Q&A provided are answered in this File
-* EXECUTIVE SUMMARY.pdf - Summary of the Outcome worked on in the Python file
+* LEAD SCORING CASE STUDY SUMMARY.pdf - Summary of the Outcome worked on in the Python file
 * Lead Score  CASE STUDY(Presentation).pdf - Final Presentation for Lead Scoring project
 
 # Steps covered in case study
