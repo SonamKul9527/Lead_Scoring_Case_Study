@@ -18,3 +18,14 @@ X Education has appointed you to help them select the most promising leads, i.e.
 * Assignment Subjective Questions.pdf - Subjective Q&A provided are answered in this File
 * EXECUTIVE SUMMARY.pdf - Summary of the Outcome worked on in the Python file
 * Lead Score  CASE STUDY(Presentation).pdf - Final Presentation for Lead Scoring project
+
+# Steps covered in case study
+
+* Understanding and Cleaning the data
+* Exploratory Data Analysis
+* Splitting the Data into Train and Test Dataset
+* Creating Dummy Variables
+* Selecting the features using RFE
+* Building the Model
+* Model Evaluation
+* Prediction using both Train and Test Datasets
